@@ -16,7 +16,7 @@
   - Frameworks: Node.js, Express.js, FastAPI, Flask, Django
 
 ## Current Projects
-[samami.co]([samami.co](https://samami.co/public/index.html))
+[samami.co](https://samami.co/public/index.html)
 
 ## Connect us
 
